@@ -161,6 +161,31 @@ nav a:hover {
 
 .contact-form button:hover {
     background: #0056b3;
+
+}
+
+.github {
+    background: #333;
+}
+
+
+.linkedin {
+    background: #0077b5;
+}
+
+.instagram {
+    background: #e4405f;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.social-icons .github {
+    background: #616a6b
 }
 
 /* Footer */
